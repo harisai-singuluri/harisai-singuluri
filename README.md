@@ -8,7 +8,7 @@
 
 📫 **Let’s Connect:**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/singuluri-harisai/)  
-- ✉️ singuluri.harisai@gmail.com  
+- ✉️ singuluriharisai143@gmail.com  
 
 😄 **Fun Fact:**  
 I’m a quick learner and so dedicated that I might debug your code before you even notice the bug! 😉  
