@@ -1,5 +1,5 @@
 👋 **Hello, World! I’m Harisai Singuluri**  
-🚀 **Aspiring Fullstack Web Developer | Quick Learner | Problem Solver**  
+🚀 **Aspiring Software Developer | Quick Learner | Problem Solver**  
 
 🌟 **About Me:**  
 - 🌱 Currently mastering **Data Structures and Algorithms** using **Java**  
